@@ -12,7 +12,7 @@ MapDETools gives tools to help the user to determine the linearizability of nonl
    - Copy all four .mla files (VectorField.mla, Basis.mla, LHPDE.mla, LAVF.mla) to your Maple lib folder.
    - Restart Maple 
 3.  You should be able to load its three packages if the installation was succeeded
-    -- Type  with(VectorField); with(LinearHomogeneousPDE); with(LieAlgebrasOfVectorFields)
+    - Type  with(VectorField); with(LinearHomogeneousPDE); with(LieAlgebrasOfVectorFields)
 4. Download MappingDETools.mla from the MapDE folder, provided here, and copy it to your Maple local repository lib folder.
 5. Restart Maple.
 6. Load MapDETools.
