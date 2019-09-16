@@ -8,9 +8,9 @@ MapDETools gives tools to help the user to determine the linearizability of nonl
 ******************************************************************
 1. Download LieAlgebrasOfVectorFields package from "LieAlgebrasOfVectorFieldsPackage" 
 2. Follow its installation instruction steps. 
-- 2.1. Copy all three .hdb files (VectorField.hdb, LHPDE.hdb and LAVF.hdb) to your Maple local repository lib folder.  
-- 2.2. Copy all four .mla files (VectorField.mla, Basis.mla, LHPDE.mla, LAVF.mla) to your Maple lib folder.
-- 2.3. Restart Maple 
+* 2.1. Copy all three .hdb files (VectorField.hdb, LHPDE.hdb and LAVF.hdb) to your Maple local repository lib folder.  
+* 2.2. Copy all four .mla files (VectorField.mla, Basis.mla, LHPDE.mla, LAVF.mla) to your Maple lib folder.
+* 2.3. Restart Maple 
 3.  You should be able to load three packages if the installation was succeeded
 -- Type  with(VectorField);
 -- Type  with(LinearHomogeneousPDE);
