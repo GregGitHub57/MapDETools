@@ -3,8 +3,8 @@ The purpose of this repository is to provide the public version of the MapDE sof
 MapDETools gives tools to help the user to determine the linearizability of nonlinear differential polynomial systems and construct the map if it exists.
 
 # Installation
-*IMPORTANT* Requirements:    -- You must have Maple 18.
-Instruction for Windows installation of the MapDETools
+**IMPORTANT* Requirements:    -- You must have Maple 18**
+## Instruction for Windows installation of the MapDETools
 ******************************************************************
 1. Download LieAlgebrasOfVectorFields package from "LieAlgebrasOfVectorFieldsPackage" 
 2. Follow its installation instruction steps. 
