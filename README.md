@@ -21,7 +21,7 @@ If the help pages of the LieAlgebrasOfVectorFields package did not work, Please 
 
 
 # Demo Notebook
-We provide a Demo file included some selected highlights example in the purpose of introducing the functionality of the MapDE algorithm and illustrate the present advantages and future developments in the MapDETools.
+We provide a Demo file included some selected highlights examples in the purpose of introducing the functionality of the MapDE algorithm and illustrate the present advantages and future developments in the MapDETools.
 
 # Note from the authors: 
 The MapDETools package is in progress. The provided version is the result of our research. We would greatly appreciate for any suggestions and comments that help us to improve the quality of the user version.
