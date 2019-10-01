@@ -1,4 +1,4 @@
-# "A major and substantial update was completed on Setember 30 - we encourage the downloading of this update"
+# "A major and substantial update was completed on September 30 - we encourage the downloading of this update"
 
 
 # MapDETools
