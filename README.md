@@ -1,4 +1,4 @@
-# Please download the latest update which has done on September 30.
+# "A major and substantial update was completed on Setember 30 - we encourage the downloading of this update"
 
 
 # MapDETools
